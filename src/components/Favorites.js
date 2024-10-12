@@ -1,6 +1,6 @@
 import Masonry from "masonry-layout"; // Import Masonry
 import { useEffect, useState } from "react";
-import "./Favorites.css"; // Optional if you're using a CSS file for styling    
+import "../styles/Favorites.css"; // Optional if you're using a CSS file for styling    
 
 const Favorites = () => {
     // Define local data instead of fetching from an API
