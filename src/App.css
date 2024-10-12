@@ -1,0 +1,26 @@
+/* Remove the old .App-logo and related animation */
+.App {
+  text-align: center;
+}
+
+/* Repurpose the old .App-header styles for the new structure, if needed */
+.App-header {
+  background-color: #9f2771; /* Matches your color palette */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #eeebd3; /* Light cream text color */
+}
+
+.App-link {
+  color: #f54076; /* Bright pinkish-red for any app links, matching your palette */
+}
+
+@media (max-width: 600px) {
+  .App-header {
+    font-size: calc(8px + 2vmin); /* Slightly smaller text on small screens */
+  }
+}

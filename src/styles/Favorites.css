@@ -1,0 +1,96 @@
+/* Grid container styling */
+.grid {
+    background-color: #9f2771; /* Background for the grid container */
+    display: flex;
+    flex-wrap: wrap; /* Allows grid items to wrap if necessary */
+    justify-content: center;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+/* Individual grid items */
+.grid-item {
+    width: calc(33.333% - 20px); /* Each grid item takes up one-third of the width */
+    margin: 10px;
+}
+
+.grid-item > .card {
+    background-color: #eeebd3; /* Light cream background for cards */
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a card effect */
+}
+
+/* Image styling */
+.grid-item img {
+    width: 100%;
+    height: auto;
+    border-bottom: 2px solid #b36a5e; /* Border to separate image from text */
+}
+
+/* Card content */
+.card-body {
+    padding: 15px;
+    text-align: center;
+}
+
+/* Title and text inside the cards */
+.card-title {
+    font-family: "Trirong", sans-serif;
+    font-size: 1.5rem;
+    color: #9f2771; /* Dark pinkish-purple for titles */
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-family: "Trirong", sans-serif;
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+/* Price tag */
+.card-body h5 {
+    font-family: "Trirong", sans-serif;
+    color: #b36a5e; /* Muted coral for the price */
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+/* Button styling */
+.btn {
+    background-color: #9f2771; /* Dark pinkish-purple for buttons */
+    color: #eeebd3; /* Light cream for button text */
+    font-family: "Trirong", sans-serif;
+    border: 2px solid #eeebd3;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Hover effect on buttons */
+.btn:hover {
+    background-color: #f7c548; /* Bright yellow on hover */
+    border: 2px solid #f7c548;
+}
+
+/* Responsive design for smaller screens */
+@media screen and (max-width: 600px) {
+    .grid-item {
+        width: calc(100% - 20px); /* Full width on small screens */
+        margin: 10px;
+    }
+
+    .card-title {
+        font-size: 1.2rem;
+    }
+
+    .card-text {
+        font-size: 0.9rem;
+    }
+
+    .btn {
+        padding: 8px 16px;
+    }
+}
