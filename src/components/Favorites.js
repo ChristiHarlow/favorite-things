@@ -7,11 +7,11 @@ const Favorites = () => {
     const [favorites, setFavorites] = useState([
         {
             id: 1,
-            category: "Books",
-            name: "My Favorite Book",
-            imageURL: "path/to/book-image.jpg",
+            category: "Drinks",
+            name: "My Favorite Tequila",
+            imageURL: "Anejo.png",
             summary: "A brief summary of the book.",
-            price: "$15.00",
+            price: "$0.00",
             links: "https://bookwebsite.com",
         },
         {
