@@ -7,7 +7,7 @@ const Header = () => {
             className="d-flex flex-column align-items-center justify-content-center"
             id="intro"
         >
-            <h1>Favorite Christi Things!</h1>
+            <h1>Christi's Favorite Things!</h1>
             <p>Inspired by Oprah, I created this site to share my personal collection of favorites that have brought joy, inspiration, and comfort to my life. I hope these recommendations inspire you as they have inspired me! </p>
         </header>
     );
