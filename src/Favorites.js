@@ -9,14 +9,14 @@ const Favorites = () => {
     () => [
       {
         id: 1,
-        category: "Tech",
-        name: "Noise-Canceling Headphones",
+        category: "Home",
+        name: "Lab Candles Grapefruit + Yuzu",
         summary:
-          "Crisp sound, great ANC, comfy for long focus sessions and flights.",
-        price: "$299",
+          "Pink grapefruit, pomelo, and yuzu lifted by citrus greens.",
+        price: "$18",
         imageURL:
-          "https://images.unsplash.com/photo-1518441902111-a9e7bdd8a9ee?q=80&w=1200&auto=format&fit=crop",
-        links: "https://www.sony.com/"
+          "/image/Grapefruit.png",
+        links: "https://www.labcandles.com/products/grapefruit-yuzu/"
       },
       {
         id: 2,
