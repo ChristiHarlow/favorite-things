@@ -21,24 +21,24 @@ const Favorites = () => {
       {
         id: 2,
         category: "Kitchen",
-        name: "High-Power Blender",
+        name: "Frozen drink & slush machine",
         summary:
-          "Daily smoothie beast—powers through frozen fruit and greens.",
-        price: "$249",
+          "Transform ordinary drinks into extraordinary slush.",
+        price: "$299",
         imageURL:
-          "https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1200&auto=format&fit=crop",
-        links: "https://www.vitamix.com/"
+          "/images/Slushi.png",
+        links: "https://www.ninjakitchen.com/page/frozen-drink-makers?srsltid=AfmBOopnea862iLpWLtfAKj8RAtgCOx9DQwBHq9dP5o10Se2IAh2CJeI/"
       },
       {
         id: 3,
         category: "Books",
-        name: "Atomic Habits",
+        name: "Let Them",
         summary:
-          "Tiny changes, big results. Great for discipline and momentum.",
+          "The Let Them Theory is a step-by-step guide on how to stop letting other people's opinions, drama, and judgment impact your life. Two simple words, Let Them, will set you free from the exhausting cycle of trying to manage everything and everyone around you.",
         price: "$16",
         imageURL:
-          "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop",
-        links: "https://jamesclear.com/atomic-habits"
+          "/images/LetThem.png",
+        links: "https://www.melrobbins.com/book/the-let-them-theory/"
       },
       {
         id: 4,
