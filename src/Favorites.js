@@ -15,7 +15,7 @@ const Favorites = () => {
           "Pink grapefruit, pomelo, and yuzu lifted by citrus greens.",
         price: "$18",
         imageURL:
-          "/image/Grapefruit.png",
+          "/images/Grapefruit.png",
         links: "https://www.labcandles.com/products/grapefruit-yuzu/"
       },
       {
