@@ -152,8 +152,7 @@ const Favorites = () => {
 
   return (
     <section className="favorites-wrapper">
-      <h1 className="page-title">Christi’s Favorite Things</h1>
-
+      
       <Masonry
         breakpointCols={breakpoints}
         className="masonry-grid"
