@@ -23,7 +23,7 @@ const Favorites = () => {
         category: "Kitchen",
         name: "Frozen drink & slush machine",
         summary:
-          "Transform ordinary drinks into extraordinary slush.",
+          "Transform ordinary drinks into extraordinary slush. Enjoy the convenience of frozen drinks at home with no ice needed.",
         price: "$299",
         imageURL:
           "/images/Slushi.png",
