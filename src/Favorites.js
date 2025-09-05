@@ -20,7 +20,7 @@ const Favorites = () => {
       },
       {
         id: 2,
-        category: "Top Shelf",
+        category: "Spirits",
         name: "Don Julio 1942 Tequila",
         summary:
           "Transform ordinary drinks into extraordinary slush. Enjoy the convenience of frozen drinks at home with no ice needed.",
@@ -119,7 +119,7 @@ const Favorites = () => {
       },
       {
         id: 11,
-        category: "Spirits",
+        category: "Wine",
         name: "Loganberry Files",
         summary:
           "A sweet red wine with natural loganberry flavor added.",
