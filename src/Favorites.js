@@ -34,7 +34,7 @@ const Favorites = () => {
         category: "Books",
         name: "Let Them",
         summary:
-          "The Let Them Theory is a step-by-step guide on how to stop letting other people's opinions, drama, and judgment impact your life. Two simple words, Let Them, will set you free from the exhausting cycle of trying to manage everything and everyone around you.",
+          "Two simple words, Let Them, will set you free from the exhausting cycle of trying to manage everything and everyone around you.",
         price: "$16",
         imageURL:
           "/images/LetThem.png",
