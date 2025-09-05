@@ -31,14 +31,14 @@ const Favorites = () => {
       },
       {
         id: 3,
-        category: "Books",
-        name: "The Let Them Theory",
+        category: "Fragrance",
+        name: "Million Gold for Her Eau de Parfum",
         summary:
-          "Two simple words, Let Them, will set you free from the exhausting cycle of trying to manage everything and everyone around you.",
-        price: "$16",
+          "Dive into a intoxicatingly sensual world of golden energy blending fiercely feminine white flowers, warm rose and addictive mineral musk.",
+        price: "$98",
         imageURL:
-          "/images/LetThem.png",
-        links: "https://www.melrobbins.com/book/the-let-them-theory/"
+          "/images/Million.png",
+        links: "https://www.ulta.com/p/million-gold-her-eau-de-parfum-pimprod2049534?sku=2633410/"
       },
       {
         id: 4,
@@ -97,14 +97,14 @@ const Favorites = () => {
       },
       {
         id: 9,
-        category: "Coffee",
-        name: "Burr Grinder",
+        category: "Books",
+        name: "The Let Them Theory",
         summary:
-          "Even grind = better coffee. Pair with your favorite beans.",
-        price: "$99",
+          "Two simple words, Let Them, will set you free from the exhausting cycle of trying to manage everything and everyone around you.",
+        price: "$16",
         imageURL:
-          "https://images.unsplash.com/photo-1502462041640-b3d7e50d0660?q=80&w=1200&auto=format&fit=crop",
-        links: "https://baratza.com/"
+          "/images/LetThem.png",
+        links: "https://www.melrobbins.com/book/the-let-them-theory/"
       },
       {
         id: 10,
@@ -119,14 +119,14 @@ const Favorites = () => {
       },
       {
         id: 11,
-        category: "Stationery",
-        name: "Dot-Grid Journal",
+        category: "Fragrance",
+        name: "Carolina Herrera Very Good Girl Elixir",
         summary:
-          "Perfect for habit tracking, gratitude, and project notes.",
-        price: "$20",
+          "Starting with top notes of playfully mischievous redcurrant and exotic lychee, leading to a seductive heart of rose. Vetiver and vanilla base notes provide a surprising and contemporary finish.",
+        price: "$102",
         imageURL:
-          "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
-        links: "https://www.leuchtturm1917.us/"
+          "/images/VeryGoodGirl.png",
+        links: "https://www.carolinaherrera.com/us/en/p-fragrance/very-good-girl?sku=000000000065182260/"
       },
       {
         category: "Home",
