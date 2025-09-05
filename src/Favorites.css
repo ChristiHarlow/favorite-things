@@ -55,8 +55,9 @@
 .card-title .name {
   font-size: 18px;
   font-weight: 700;
-  color: var(--ink);
+  color: var(--indigo); /* deep indigo for strong visibility */
 }
+
 
 .card-text {
   color: var(--muted);
