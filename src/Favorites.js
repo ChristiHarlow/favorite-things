@@ -64,14 +64,14 @@ const Favorites = () => {
       },
       {
         id: 6,
-        category: "Fitness",
-        name: "Adjustable Dumbbells",
+        category: "Spirits",
+        name: "Loganberry Files",
         summary:
-          "Space-saving weights for quick strength sessions at home.",
-        price: "$399",
+          "A sweet red wine with natural loganberry flavor added.",
+        price: "$23",
         imageURL:
-          "https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?q=80&w=1200&auto=format&fit=crop",
-        links: "https://www.bowflex.com/"
+          "/images/Loganberry.png",
+        links: "https://www.merrittestatewinery.com/catalog/p-100167/new-wine-loganberry-files-750ml/"
       },
       {
         id: 7,
