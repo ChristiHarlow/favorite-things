@@ -1,3 +1,11 @@
+:root {
+  --pink: #f72585;   /* Vibrant Pink */
+  --purple: #7209b7; /* Bright Purple */
+  --indigo: #3a0ca3; /* Deep Indigo */
+  --blue: #4361ee;   /* Bold Blue */
+  --aqua: #4cc9f0;   /* Aqua/Light Blue */
+}
+
 .App {
   text-align: center;
 }
