@@ -20,14 +20,14 @@ const Favorites = () => {
       },
       {
         id: 2,
-        category: "Kitchen",
-        name: "Frozen drink & slush machine",
+        category: "Top Shelf",
+        name: "Don Julio 1942 Tequila",
         summary:
           "Transform ordinary drinks into extraordinary slush. Enjoy the convenience of frozen drinks at home with no ice needed.",
-        price: "$299",
+        price: "$180",
         imageURL:
-          "/images/Slushi.png",
-        links: "https://www.ninjakitchen.com/page/frozen-drink-makers?srsltid=AfmBOopnea862iLpWLtfAKj8RAtgCOx9DQwBHq9dP5o10Se2IAh2CJeI/"
+          "/images/1942.png",
+        links: "https://www.donjulio.com/our-tequilas/don-julio-1942-tequila?ds_e=MICROSOFT&ds_c=26004831_Brand-Variant_DOJUO_DONJUB_SA3_BING_USA_NU_BMC_AO_SEAH_PSEAC_TEAD_NU_ALBOS_NAT_NU_CPC_NU_KEW_A21%2B_CXD_EN_EXPH_BRAD&ds_k=1942+tequila&gclid=cf52dd10300216ec605cb5aa50fa1e6d&gclsrc=3p.ds&msclkid=cf52dd10300216ec605cb5aa50fa1e6d/"
       },
       {
         id: 3,
@@ -86,14 +86,14 @@ const Favorites = () => {
       },
       {
         id: 8,
-        category: "Tech",
-        name: "E-Reader",
+        category: "Kitchen",
+        name: "Frozen drink & slush machine",
         summary:
-          "Distraction-free reading with a gorgeous e-ink display.",
-        price: "$139",
+          "Transform ordinary drinks into extraordinary slush. Enjoy the convenience of frozen drinks at home with no ice needed.",
+        price: "$299",
         imageURL:
-          "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1200&auto=format&fit=crop",
-        links: "https://www.amazon.com/kindle"
+          "/images/Slushi.png",
+        links: "https://www.ninjakitchen.com/page/frozen-drink-makers?srsltid=AfmBOopnea862iLpWLtfAKj8RAtgCOx9DQwBHq9dP5o10Se2IAh2CJeI/"
       },
       {
         id: 9,
