@@ -75,14 +75,14 @@ const Favorites = () => {
       },
       {
         id: 7,
-        category: "Home",
-        name: "DW Home Sparkling Mimosa Wooden wick candle",
+        category: "Beauty",
+        name: "MAC Lipglass Air Snobbish",
         summary:
-          "Shimmering spring water splashed over sweet watermelon and green honeydew, enhanced with aromatic hints of crushed rosemary.",
-        price: "$18",
+          "Shines like glass. Feels like air. A non-sticky, high-shine lip gloss that hydrates lips all day.",
+        price: "$25",
         imageURL:
-          "/images/Woodwick.png",
-        links: "https://www.dwhome.com/products/sparkling-mimosa-wooden-wick-candle/"
+          "/images/Snobbish.png",
+        links: "https://www.maccosmetics.com/product/13853/133676/products/makeup/lips/lip-gloss/lipglass-air-non-sticky-gloss?shade=Snobbish/"
       },
       {
         id: 8,
@@ -129,16 +129,15 @@ const Favorites = () => {
         links: "https://www.leuchtturm1917.us/"
       },
       {
-        id: 12,
-        category: "Audio",
-        name: "Portable Bluetooth Speaker",
+        category: "Home",
+        name: "DW Home Sparkling Mimosa Wooden wick candle",
         summary:
-          "Room-filling sound for picnics, yoga, or shower concerts.",
-        price: "$129",
+          "Shimmering spring water splashed over sweet watermelon and green honeydew, enhanced with aromatic hints of crushed rosemary.",
+        price: "$18",
         imageURL:
-          "https://images.unsplash.com/photo-1470364693235-a4a46d0606f3?q=80&w=1200&auto=format&fit=crop",
-        links: "https://www.jbl.com/"
-      }
+          "/images/Woodwick.png",
+        links: "https://www.dwhome.com/products/sparkling-mimosa-wooden-wick-candle/"
+      },
     ],
     []
   );
