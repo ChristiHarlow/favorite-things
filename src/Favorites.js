@@ -32,7 +32,7 @@ const Favorites = () => {
       {
         id: 3,
         category: "Books",
-        name: "Let Them",
+        name: "The Let Them Theory",
         summary:
           "Two simple words, Let Them, will set you free from the exhausting cycle of trying to manage everything and everyone around you.",
         price: "$16",
