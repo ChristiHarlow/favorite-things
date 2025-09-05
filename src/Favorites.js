@@ -75,14 +75,14 @@ const Favorites = () => {
       },
       {
         id: 7,
-        category: "Skincare",
-        name: "Vitamin C Serum",
+        category: "Home",
+        name: "DW Home Sparkling Mimosa Wooden wick candle",
         summary:
-          "Brightens and evens tone—great under sunscreen each morning.",
-        price: "$24",
+          "Shimmering spring water splashed over sweet watermelon and green honeydew, enhanced with aromatic hints of crushed rosemary.",
+        price: "$18",
         imageURL:
-          "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?q=80&w=1200&auto=format&fit=crop",
-        links: "https://theordinary.com/"
+          "/images/Woodwick.png",
+        links: "https://www.dwhome.com/products/sparkling-mimosa-wooden-wick-candle/"
       },
       {
         id: 8,
