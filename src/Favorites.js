@@ -1,5 +1,7 @@
 import { useMemo } from "react";
 import Masonry from "react-masonry-css";
+import './Favorites.css';
+
 
 const Favorites = () => {
   // Seed data: 12 items to start. Add more by appending objects.
