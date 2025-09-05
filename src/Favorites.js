@@ -42,25 +42,25 @@ const Favorites = () => {
       },
       {
         id: 4,
-        category: "Wellness",
-        name: "Yoga Mat (Non-Slip)",
+        category: "Food",
+        name: "Connecticut Roll",
         summary:
-          "Cushioned, grippy, and durable—perfect for at-home flows.",
-        price: "$89",
+          "Connecticut Roll features Maine lobster, served warmed with butter and lemon, on a New England Roll. The second of our two classic styles, our Connecticut Roll is our most popular roll and often referred to as heaven on a bun.",
+        price: "$23",
         imageURL:
-          "https://images.unsplash.com/photo-1588286840104-8957b019727f?q=80&w=1200&auto=format&fit=crop",
-        links: "https://www.manduka.com/"
+          "/images/LobsterRoll.png",
+        links: "https://www.cousinsmainelobster.com/"
       },
       {
         id: 5,
-        category: "Home",
-        name: "Aromatherapy Diffuser",
+        category: "Fragrance",
+        name: "Million Gold for Her Eau de Parfum",
         summary:
-          "Set the vibe—lavender for winding down, citrus for energy.",
-        price: "$29",
+          "Dive into a intoxicatingly sensual world of golden energy blending fiercely feminine white flowers, warm rose and addictive mineral musk.",
+        price: "$98",
         imageURL:
-          "https://images.unsplash.com/photo-1598300189219-d64bb3ddacba?q=80&w=1200&auto=format&fit=crop",
-        links: "https://www.muji.com/"
+          "/images/Million.png",
+        links: "https://www.ulta.com/p/million-gold-her-eau-de-parfum-pimprod2049534?sku=2633410/"
       },
       {
         id: 6,
