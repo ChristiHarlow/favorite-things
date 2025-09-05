@@ -108,14 +108,14 @@ const Favorites = () => {
       },
       {
         id: 10,
-        category: "Style",
-        name: "Everyday Crossbody Bag",
+        category: "Beauty",
+        name: "The Lip Bar Nonstop Liquid Matte It Girl",
         summary:
-          "Lightweight, organized, and cute—errands to evenings.",
-        price: "$69",
+          "This non-stop liquid matte goes on like a gloss, dries down matte, and last all day.",
+        price: "$15",
         imageURL:
-          "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?q=80&w=1200&auto=format&fit=crop",
-        links: "https://www.lululemon.com/"
+          "/images/ItGirl.png",
+        links: "https://thelipbar.com/products/liquid-matte?variant=40404315013209/"
       },
       {
         id: 11,
