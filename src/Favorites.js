@@ -9,14 +9,14 @@ const Favorites = () => {
     () => [
       {
         id: 1,
-        category: "Home",
-        name: "Lab Candles Grapefruit + Yuzu",
+        category: "Tech & Style",
+        name: "Ray-Ban Meta Wayfarer Glasses",
         summary:
-          "Pink grapefruit, pomelo, and yuzu lifted by citrus greens.",
-        price: "$18",
+          "Combining iconic Hollywood style with Meta AI, these AI glasses let you react to what you see, take pictures and videos, listen on the go and make calls and send messages without touching your phone.",
+        price: "$379",
         imageURL:
-          "/images/Grapefruit.png",
-        links: "https://www.labcandles.com/products/grapefruit-yuzu/"
+          "/images/Meta.png",
+        links: "https://www.meta.com/ai-glasses/wayfarer-matte-black-clear-green-transitions//"
       },
       {
         id: 2,
@@ -35,10 +35,10 @@ const Favorites = () => {
         name: "Million Gold for Her Eau de Parfum",
         summary:
           "Dive into a intoxicatingly sensual world of golden energy blending fiercely feminine white flowers, warm rose and addictive mineral musk.",
-        price: "$98",
+        price: "$170",
         imageURL:
           "/images/Million.png",
-        links: "https://www.ulta.com/p/million-gold-her-eau-de-parfum-pimprod2049534?sku=2633410/"
+        links: "https://www.rabanne.com/us/en_US/fragrance/c/frag-women-goldforher/"
       },
       {
         id: 4,
@@ -54,24 +54,24 @@ const Favorites = () => {
       {
         id: 5,
         category: "Fragrance",
-        name: "Million Gold for Her Eau de Parfum",
+        name: "Carolina Herrera Very Good Girl Elixir",
         summary:
-          "Dive into a intoxicatingly sensual world of golden energy blending fiercely feminine white flowers, warm rose and addictive mineral musk.",
-        price: "$98",
+          "Starting with top notes of playfully mischievous redcurrant and exotic lychee, leading to a seductive heart of rose. Vetiver and vanilla base notes provide a surprising and contemporary finish.",
+        price: "$102",
         imageURL:
-          "/images/Million.png",
-        links: "https://www.ulta.com/p/million-gold-her-eau-de-parfum-pimprod2049534?sku=2633410/"
+          "/images/VeryGoodGirl.png",
+        links: "https://www.carolinaherrera.com/us/en/p-fragrance/very-good-girl?sku=000000000065182260/"
       },
       {
         id: 6,
-        category: "Spirits",
-        name: "Loganberry Files",
+        category: "Home",
+        name: "Lab Candles Grapefruit + Yuzu",
         summary:
-          "A sweet red wine with natural loganberry flavor added.",
-        price: "$23",
+          "Pink grapefruit, pomelo, and yuzu lifted by citrus greens.",
+        price: "$18",
         imageURL:
-          "/images/Loganberry.png",
-        links: "https://www.merrittestatewinery.com/catalog/p-100167/new-wine-loganberry-files-750ml/"
+          "/images/Grapefruit.png",
+        links: "https://www.labcandles.com/products/grapefruit-yuzu/"
       },
       {
         id: 7,
@@ -119,14 +119,14 @@ const Favorites = () => {
       },
       {
         id: 11,
-        category: "Fragrance",
-        name: "Carolina Herrera Very Good Girl Elixir",
+        category: "Spirits",
+        name: "Loganberry Files",
         summary:
-          "Starting with top notes of playfully mischievous redcurrant and exotic lychee, leading to a seductive heart of rose. Vetiver and vanilla base notes provide a surprising and contemporary finish.",
-        price: "$102",
+          "A sweet red wine with natural loganberry flavor added.",
+        price: "$23",
         imageURL:
-          "/images/VeryGoodGirl.png",
-        links: "https://www.carolinaherrera.com/us/en/p-fragrance/very-good-girl?sku=000000000065182260/"
+          "/images/Loganberry.png",
+        links: "https://www.merrittestatewinery.com/catalog/p-100167/new-wine-loganberry-files-750ml/"
       },
       {
         category: "Home",
